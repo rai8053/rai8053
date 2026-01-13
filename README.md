@@ -1,50 +1,31 @@
 # Hi, I'm Raihan Hazra 👋
 
-### 🧠 Python & Machine Learning Learner (AI-Assisted)
+### Python & Machine Learning Learner (AI-Assisted)
 
 I am a learner transitioning into the IT field, focusing on **Python programming and Machine Learning fundamentals**.  
-I actively use **AI tools like ChatGPT and Gemini** to understand concepts faster, improve code quality, and learn industry-level practices.
+I use AI tools like **ChatGPT and Gemini** to accelerate understanding, improve code quality, and learn industry practices — while actively working to understand the logic behind everything I build.
 
 ---
 
-## 🚀 What I’m Learning & Practicing
-
-- Python programming (logic, OOP, scripting)
-- Data analysis with Pandas & NumPy
-- Data visualization (Matplotlib, Seaborn)
-- Machine Learning fundamentals
-- Model training, evaluation, and improvement
-- Git & GitHub workflow
+## What I’m Focused On
+- Learning Python fundamentals and problem-solving
+- Understanding data analysis workflows
+- Studying Machine Learning concepts step by step
+- Using AI as a learning aid, not a replacement
 
 ---
 
-## 🤖 How I Use AI (Honestly)
-
-- To understand concepts I don’t know
-- To debug and improve code
-- To learn best practices and clean structure
-- To speed up learning — **not to blindly copy**
-
-I always try to **understand the logic behind the code** I use.
+## How I Learn
+- Break down problems before writing code
+- Read and modify AI-generated code to understand it
+- Practice explaining code in simple words
+- Gradually reduce AI dependency over time
 
 ---
 
-## 🎯 Current Focus
-
-- Strengthening core Python logic
-- Working with real datasets
-- Improving problem-solving ability
-- Becoming less dependent on AI over time
+## Current Goal
+To grow into a **Python / Machine Learning role** by building strong fundamentals and practical understanding.
 
 ---
 
-## 📈 Goal
-
-To grow into a **Python / Machine Learning role** by combining:
-- Consistent practice  
-- Strong fundamentals  
-- Smart use of AI tools  
-
----
-
-⭐ This profile reflects my **learning journey**, not perfection.
+⭐ This profile represents my learning journey — honest, consistent, and improving.
