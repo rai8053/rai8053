@@ -1,31 +1,65 @@
 # Hi, I'm Raihan Hazra 👋
 
-### Python & Machine Learning Learner (AI-Assisted)
+## Backend Developer & AI Integration Enthusiast
 
-I am a learner transitioning into the IT field, focusing on **Python programming and Machine Learning fundamentals**.  
-I use AI tools like **ChatGPT and Gemini** to accelerate understanding, improve code quality, and learn industry practices — while actively working to understand the logic behind everything I build.
+I am a B.Tech graduate transitioning into software development with a focus on **Backend Development, AI Integration, and Intelligent Applications**.
 
----
-
-## What I’m Focused On
-- Learning Python fundamentals and problem-solving
-- Understanding data analysis workflows
-- Studying Machine Learning concepts step by step
-- Using AI as a learning aid, not a replacement
+I enjoy building scalable backend systems, integrating AI models into real-world products, and exploring how automation can solve business problems.
 
 ---
 
-## How I Learn
-- Break down problems before writing code
-- Read and modify AI-generated code to understand it
-- Practice explaining code in simple words
-- Gradually reduce AI dependency over time
+## 🚀 What I'm Working On
+
+- Backend Development with Node.js & Python
+- REST API Design & Development
+- AI & LLM Integration
+- AI Agents & Automation Workflows
+- OCR and Document Processing Systems
+- Database Design & Management
 
 ---
 
-## Current Goal
-To grow into a **Python / Machine Learning role** by building strong fundamentals and practical understanding.
+## 🛠 Tech Stack
+
+### Backend
+- Node.js
+- Express.js
+- Python
+- REST APIs
+
+### AI & Machine Learning
+- OpenAI APIs
+- AI Agents
+- LangChain
+- Machine Learning Fundamentals
+- OCR Systems
+
+### Database
+- MongoDB
+- SQL
+
+### Tools & Platforms
+- Git & GitHub
+- Linux (Ubuntu)
+- VS Code
+- Postman
 
 ---
 
-⭐ This profile represents my learning journey — honest, consistent, and improving.
+## 🎯 Current Goal
+
+To become a strong Backend Developer specializing in AI-powered applications and intelligent automation systems.
+
+---
+
+## 📌 Interests
+
+- AI Product Development
+- Backend Architecture
+- Automation Systems
+- Startup Technology
+- Applied Artificial Intelligence
+
+---
+
+⭐ Building, learning, and improving every day.
