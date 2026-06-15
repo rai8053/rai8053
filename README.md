@@ -1,65 +1,86 @@
-# Hi, I'm Raihan Hazra 👋
+# Raihan Hazra 👋
 
-## Backend Developer & AI Integration Enthusiast
+### Backend Developer | AI Integration Engineer | Python & Node.js
 
-I am a B.Tech graduate transitioning into software development with a focus on **Backend Development, AI Integration, and Intelligent Applications**.
+I build backend systems, APIs, automation workflows, and AI-powered applications.
 
-I enjoy building scalable backend systems, integrating AI models into real-world products, and exploring how automation can solve business problems.
-
----
-
-## 🚀 What I'm Working On
-
-- Backend Development with Node.js & Python
-- REST API Design & Development
-- AI & LLM Integration
-- AI Agents & Automation Workflows
-- OCR and Document Processing Systems
-- Database Design & Management
+My focus is on combining modern backend development with Large Language Models (LLMs), AI Agents, OCR systems, and intelligent automation to solve real-world business problems.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Core Skills
 
-### Backend
+### Backend Development
+- Python
 - Node.js
 - Express.js
-- Python
 - REST APIs
+- Authentication & Authorization
+- API Integration
 
-### AI & Machine Learning
-- OpenAI APIs
+### AI Engineering
+- OpenAI API Integration
 - AI Agents
 - LangChain
-- Machine Learning Fundamentals
-- OCR Systems
+- Prompt Engineering
+- OCR & Document Processing
+- LLM Application Development
 
-### Database
+### Databases
 - MongoDB
 - SQL
+- Database Design
 
-### Tools & Platforms
+### Tools
 - Git & GitHub
 - Linux (Ubuntu)
-- VS Code
 - Postman
+- VS Code
 
 ---
 
-## 🎯 Current Goal
+## 💡 What I Build
 
-To become a strong Backend Developer specializing in AI-powered applications and intelligent automation systems.
+✅ AI-powered applications
+
+✅ Backend services and APIs
+
+✅ OCR and document automation systems
+
+✅ AI agent workflows
+
+✅ Business process automation
+
+✅ Full-stack products with AI integration
 
 ---
 
-## 📌 Interests
+## 🎯 Current Focus
 
-- AI Product Development
-- Backend Architecture
-- Automation Systems
-- Startup Technology
-- Applied Artificial Intelligence
+- Advanced Python Development
+- Production-ready Backend Systems
+- AI Agents & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Scalable API Architecture
+- Startup Product Development
 
 ---
 
-⭐ Building, learning, and improving every day.
+## 🌱 Currently Learning
+
+- FastAPI
+- Docker
+- Vector Databases
+- AI System Design
+- Production AI Deployment
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/rai8053
+- LinkedIn: https://www.linkedin.com/in/raihanhazra
+
+---
+
+⚡ Open to Backend Developer, Python Developer, AI Integration Engineer, and AI Engineer opportunities.
